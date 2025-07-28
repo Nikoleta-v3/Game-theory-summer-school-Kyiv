@@ -86,5 +86,5 @@ If you have Git installed, run the following in your terminal:
 
 ```bash
 cd Desktop  # Or navigate to any folder where you'd like to save the material
-git clone https://github.com/your-username/your-repository-name.git
+git clone git@github.com:Nikoleta-v3/Game-theory-summer-school-Kyiv.git
 ```
